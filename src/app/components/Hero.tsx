@@ -7,13 +7,13 @@ const Hero = () => {
       <div className="w-[217px] h-[344px] ml-24 border-purple-900">
         <ol className="">
           <ul className="flex my-3">
-            Women's Fashion{" "}
+            Women&apos;s Fashion{" "}
             <span className="ml-10 w-[24px]">
               <ChevronRight />
             </span>{" "}
           </ul>
           <ul className="flex my-3">
-            Men's Fashion{" "}
+            Men&apos;s Fashion{" "}
             <span className="ml-16 w-[24px]">
               <ChevronRight />
             </span>{" "}
@@ -22,7 +22,7 @@ const Hero = () => {
           <ul className="my-4">Home & Lifestyle</ul>
           <ul className="my-4">Medicine</ul>
           <ul className="my-4">Sport & Outdoor</ul>
-          <ul className="my-4">Baby's & Toys</ul>
+          <ul className="my-4">Baby&apos;s & Toys</ul>
           <ul className="my-4">Groceries & Pets</ul>
           <ul className="my-4">Health & Beauty</ul>
         </ol>

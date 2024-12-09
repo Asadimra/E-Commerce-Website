@@ -48,7 +48,7 @@ const HeroSection1 = () => {
     <div>
       <div className="w-[1170px] h-[103px] ml-24 mt-11">
         <div className="w-[20px] h-[40px] rounded-md bg-red-600">
-          <p className="text-red-600 ml-9 pt-2">Today's</p>
+          <p className="text-red-600 ml-9 pt-2">Today&apos;s</p>
         </div>
         <div className=" flex">
           <h1 className=" font-semibold text-xl mt-4">Flash Sales</h1>
